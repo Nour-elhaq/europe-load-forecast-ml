@@ -121,3 +121,4 @@ To calculate the Carbon Proxy Score, we analyzed the installed capacity of Fossi
 
 ---
 *Built with Python, Pandas, XGBoost, and Streamlit.*
+---
